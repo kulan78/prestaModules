@@ -1,7 +1,8 @@
 
 /*** ESSENTIAL STYLES ***/
 .sf-contener {
-	clear: both;
+	/*clear: both;*/
+ float: right;
 }
 .sf-right {
   margin-right: 14px;
@@ -14,10 +15,10 @@
 	list-style:		none;
 }
 .sf-menu {
-	margin: 10px 0;
+	margin: 40px 0;
 	padding:0 5px;
-	width:970px;/* 980 */
-	-moz-border-radius: 3px;
+	width:370px;/* 980 */
+	/*-moz-border-radius: 3px;
 	-webkit-border-radius: 3px;
 	border-radius: 3px;
 	background: transparent url(../img/bg_blocktopmenu.png) repeat-x 0 0;
